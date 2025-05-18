@@ -26,7 +26,7 @@
 </div> -->
 
 <div align="center">
-  <p>A self taught frontend developer and ui / ux designer from Philippines 🇵🇭</p>
+  <p><b>A self taught frontend developer and ui / ux designer from Philippines 🇵🇭</b></p>
   <a href="mailto:ruther.diox04@gmail.com target="_blank">
     <img src="https://img.shields.io/badge/Gmail-f43f5e?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
