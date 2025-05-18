@@ -42,7 +42,7 @@
  
 <h2 align="center">💻 Technologies 💻</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,html,css,javascript,react,nextjs,tailwind,bootstrap,mui,figma,ai,ps&perline=4" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,github,git,html,css,javascript,react,nextjs,nodejs,mongodb,tailwind,bootstrap,mui,bulma,chartjs,daisyui,shadcn,vercel,render,figma,ai,ps&perline=4&titles=true" />
 </div>
 
 <br/>
@@ -50,6 +50,14 @@
 <h2 align="center">💻 Currently Learning Technologies 💻</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=ruby,rails,postgres" />
+</div>
+
+<br/>
+
+<h2 align="center">🏆 Trophy 🏆</h2>
+<div align=center>
+  
+  ![trophy](https://github-profile-trophy.vercel.app/?username=rutherx44&theme=dracula&margin-w=10&no-bg=true&no-frame=true)
 </div>
 
 <br/>
