@@ -26,7 +26,14 @@
 </div> -->
 
 <div align="center">
-  <h3><b>A self taught frontend developer and ui / ux designer from Philippines 🇵🇭</b></h3>
+  <h3>
+    A self-taught <i><strong>Frontend Developer</strong></i> and <i><strong>UI/UX Designer</strong></i> from the Philippines 🇵🇭. <br/>
+    I craft responsive, user-centered websites and digital products that look great and feel effortless to use. <br/> 
+    My passion lies in bridging design and code to create meaningful, intuitive experiences. <br/>
+    Always learning, always building — I bring ideas to life, <br/> 
+    one pixel at a time, <br/>
+    one line at a time.
+  </h3>
   <div align="center" gap='10px'>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Medium%20Skin%20Tone.png" alt="Backhand Index Pointing Right Medium Skin Tone" width="40" height="40" /> &nbsp; &nbsp;
     <a href="mailto:ruther.diox04@gmail.com target="_blank">
