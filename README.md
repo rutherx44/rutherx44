@@ -92,7 +92,7 @@
 </h2>
 <div align=center>
     
-  ![](https://github-readme-stats.vercel.app/api?username=rutherx44&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
+  ![](https://github-readme-stats.vercel.app/api?username=rutherx44&theme=merko&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)<br/>
   ![](https://nirzak-streak-stats.vercel.app/?user=rutherx44&theme=merko&hide_border=true)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rutherx44&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
   ![](https://github-contributor-stats.vercel.app/api?username=rutherx44&limit=5&theme=merko&combine_all_yearly_contributions=true&hide_border=true)
