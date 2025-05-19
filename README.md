@@ -7,7 +7,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&duration=3500&pause=500&color=84CC16&center=true&vCenter=true&width=1200&lines=Hi+there!%F0%9F%91%8B+I'm+Ruther+Dio;I'm+a+Frontend+Developer+and+UI+%2F+UX+Designer;Nice+to+meet+you+%F0%9F%98%84" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&duration=3500&pause=500&color=84CC16&center=true&vCenter=true&width=1200&lines=Hi+there!%F0%9F%91%8B+I'm+Ruther+Dio;I'm+a+UI+%2F+UX+Designer+and+Frontend+Developer;Nice+to+meet+you+%F0%9F%98%84" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -27,8 +27,7 @@
 
 <div align="center">
   <h3>
-    A self-taught <i><strong>Frontend Developer</strong></i> and <i><strong>UI/UX Designer</strong></i> from the Philippines 🇵🇭. <br/>
-    I craft responsive, user-centered websites and digital products that look great and feel effortless to use. <br/> 
+    I'm a self-taught <i><strong>UI/UX Designer</strong></i> and <i><strong>Frontend Developer</strong></i> from the Philippines 🇵🇭. <br/>
     My passion lies in bridging design and code to create meaningful, intuitive experiences. <br/>
     Always learning, always building — I bring ideas to life, <br/> 
     one pixel at a time, <br/>
