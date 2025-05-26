@@ -40,9 +40,6 @@
     <a href="www.linkedin.com/in/ruther-dio">
       <img src="https://img.shields.io/badge/LinkedIn-3b82f6?style=for-the-badge&logo=linkedin&logoColor=#06b6d4" />
     </a>
-    <a href="https://ruther-portfolio.vercel.app/" target="_blank">
-       <img src="https://img.shields.io/badge/Portfolio-84cc16?style=for-the-badge&logo=todoist&logoColor=white" />
-    </a> &nbsp; &nbsp;
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left%20Medium%20Skin%20Tone.png" alt="Backhand Index Pointing Left Medium Skin Tone" width="40" height="40" />
   </div>
 </div>
