@@ -36,11 +36,12 @@
   <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Medium%20Skin%20Tone.png" alt="Backhand Index Pointing Right Medium Skin Tone" width="40" height="40" /> &nbsp; &nbsp;
   <a href="mailto:ruther.diox04@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-f43f5e?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-f43f5e?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
-  <a href="www.linkedin.com/in/ruther-dio" target="_blank">
+  <a href="https://linkedin.com/in/ruther-dio" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+    <a href="https://ruther-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-84cc16?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left%20Medium%20Skin%20Tone.png" alt="Backhand Index Pointing Left Medium Skin Tone" width="40" height="40" />
  </div>
 </div>
