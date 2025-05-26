@@ -43,6 +43,8 @@
   </a>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left%20Medium%20Skin%20Tone.png" alt="Backhand Index Pointing Left Medium Skin Tone" width="40" height="40" />
 </div>
+</div>
+
 
 <br/>
  
