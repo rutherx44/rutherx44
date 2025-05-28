@@ -50,7 +50,7 @@
  
 <h2 align="center">💻 Technologies 💻</h2>
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,github,git,html,css,javascript,react,nextjs,nodejs,mongodb,tailwind,bootstrap,mui,bulma,chartjs,daisyui,shadcn,vercel,render,figma,ai,ps&perline=4&titles=true" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,github,git,html,css,javascript,react,nextjs,nodejs,mongodb,tailwind,mui,daisyui,shadcn,vercel,render,figma,ai,ps&perline=4&titles=true" />
 </div>
 
 <br/>
