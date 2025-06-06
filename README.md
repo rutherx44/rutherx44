@@ -55,7 +55,7 @@
 
 <br/>
  
-<h2 align="center">💻 Currently Learning Technologies 💻</h2>
+<!-- <h2 align="center">💻 Currently Learning Technologies 💻</h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="40" height="40" />&nbsp; &nbsp;
   <img src="https://skillicons.dev/icons?i=ruby,rails,postgres" />&nbsp; &nbsp;
@@ -63,7 +63,7 @@
   
 </div>
 
-<br/>
+<br/>  -->
 
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> &nbsp;
