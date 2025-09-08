@@ -47,9 +47,9 @@
   <a href="https://www.behance.net/rutherdio" target="_blank">
     <img src="https://img.shields.io/badge/-Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank" />
   </a>
-  <a href="https://ruther-portfolio.vercel.app/" target="_blank">
+<!--   <a href="https://ruther-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-84CC16?style=for-the-badge&logo=producthunt&logoColor=white" target="_blank" />
-  </a>
+  </a> -->
     &nbsp; &nbsp;
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left%20Medium%20Skin%20Tone.png" alt="Backhand Index Pointing Left Medium Skin Tone" width="40" height="40" />
  </div>
