@@ -27,11 +27,7 @@
 
 <div align="center">
   <h3>
-    I'm a self-taught <i><strong>UI/UX Designer</strong></i> and <i><strong>Frontend Developer</strong></i> from the Philippines 🇵🇭. <br/>
-    My passion lies in bridging design and code to create meaningful, intuitive experiences. <br/>
-    Always learning, always building — I bring ideas to life, <br/> 
-    one pixel at a time, <br/>
-    one line at a time.
+    Self-taught UI/UX Designer and Frontend Developer focused on building clean, responsive, and accessible web interfaces. I bridge design and development to create solutions that are both elegant and practical. My projects highlight a passion for problem-solving, continuous learning, and writing code that turns ideas into impactful digital experiences.
   </h3>
   <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Medium%20Skin%20Tone.png" alt="Backhand Index Pointing Right Medium Skin Tone" width="40" height="40" /> &nbsp; &nbsp;
