@@ -27,7 +27,9 @@
 
 <div align="center">
   <h3>
-    Self-taught UI/UX Designer and Frontend Developer focused on building clean, responsive, and accessible web interfaces. I bridge design and development to create solutions that are both elegant and practical. My projects highlight a passion for problem-solving, continuous learning, and writing code that turns ideas into impactful digital experiences.
+    Self-taught UI/UX Designer & Frontend Developer building elegant, responsive web solutions.<br/>
+I bridge design and code to turn ideas into practical, user-centered experiences.<br/>
+Focused on problem-solving, clean code, and continuous learning.
   </h3>
   <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Medium%20Skin%20Tone.png" alt="Backhand Index Pointing Right Medium Skin Tone" width="40" height="40" /> &nbsp; &nbsp;
