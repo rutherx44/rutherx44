@@ -35,21 +35,21 @@
   </h3>
   <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Medium%20Skin%20Tone.png" alt="Backhand Index Pointing Right Medium Skin Tone" width="40" height="40" /> &nbsp; &nbsp;
-  <a href="https://linkedin.com/in/ruther-dio" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
   <a href="mailto:ruther.diox04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-B71C1C?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
-  <a href="https://dribbble.com/rthrx44" target="_blank">
-    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" target="_blank" />
+  <a href="https://linkedin.com/in/ruther-dio" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.behance.net/rutherdio" target="_blank">
     <img src="https://img.shields.io/badge/-Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank" />
   </a>
-<!--   <a href="https://ruther-portfolio.vercel.app/" target="_blank">
+  <a href="https://dribbble.com/rthrx44" target="_blank">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://rutherx44-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-84CC16?style=for-the-badge&logo=producthunt&logoColor=white" target="_blank" />
-  </a> -->
+  </a>
     &nbsp; &nbsp;
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left%20Medium%20Skin%20Tone.png" alt="Backhand Index Pointing Left Medium Skin Tone" width="40" height="40" />
  </div>
@@ -59,7 +59,7 @@
  
 <h2 align="center">💻 Technologies 💻</h2>
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,github,git,html,css,javascript,react,nextjs,nodejs,mongodb,tailwind,mui,daisyui,shadcn,vercel,render,figma,ai,ps&perline=4&titles=true" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,react,tailwind,figma,ps,git&perline=4&titles=true" />
 </div>
 
 <br/>
